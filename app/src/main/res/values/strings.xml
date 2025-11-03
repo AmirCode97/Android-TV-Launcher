@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Smart TV Launcher</string>
+    
+    <!-- Main Menu -->
     <string name="menu_home">Home</string>
     <string name="menu_apps">Apps</string>
     <string name="menu_playstore">Play Store</string>
     <string name="menu_settings">Settings</string>
     <string name="menu_search">Search</string>
-    <!-- سایر رشته‌ها مانند نمونه فارسی و سایر زبان‌ها -->
+    
+    <!-- Categories -->
+    <string name="category_popular_apps">Popular Apps</string>
+    <string name="category_entertainment">Entertainment</string>
+    <string name="category_streaming">Streaming Services</string>
+    <string name="category_games">Games</string>
+    <string name="category_utilities">Utilities</string>
+    <string name="category_education">Education</string>
+    
+    <!-- Settings -->
+    <string name="settings_display">Display Settings</string>
+    <string name="settings_sound">Sound Settings</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_ai">AI Features</string>
+    <string name="settings_personalization">Personalization</string>
+    <string name="settings_network">Network</string>
+    <string name="settings_storage">Storage</string>
+    <string name="settings_about">About</string>
+    
+    <!-- AI Features -->
+    <string name="ai_recommendations">Smart Recommendations</string>
+    <string name="ai_voice_control">Voice Control</string>
+    <string name="ai_content_discovery">Content Discovery</string>
+    <string name="ai_learning_mode">AI Learning Mode</string>
+    <string name="ai_personalized_home">Personalized Home Screen</string>
+    
+    <!-- Play Store -->
+    <string name="playstore_featured">Featured Apps</string>
+    <string name="playstore_top_free">Top Free</string>
+    <string name="playstore_top_paid">Top Paid</string>
+    <string name="playstore_categories">Categories</string>
+    
+    <!-- Actions -->
+    <string name="action_open">Open</string>
+    <string name="action_install">Install</string>
+    <string name="action_uninstall">Uninstall</string>
+    <string name="action_update">Update</string>
+    
+    <!-- Messages -->
+    <string name="loading">Loading...</string>
+    <string name="no_apps_found">No apps found</string>
+    <string name="ai_analyzing">AI is analyzing your preferences...</string>
 </resources>
