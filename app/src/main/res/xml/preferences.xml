@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        android:title="@string/settings_display">
+        <ListPreference
+            android:key="resolution"
+            android:title="Resolution"
+            android:entries="@array/resolution_entries"
+            android:entryValues="@array/resolution_values"
+            android:defaultValue="auto"
+            android:summary="%s" />
+    </PreferenceCategory>
+    <!-- ادامه بخش‌های تنظیمات دقیقا طبق نمونه بالا -->
+</PreferenceScreen>
