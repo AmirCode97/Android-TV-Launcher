@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lanceur TV Intelligent</string>
+    
+    <!-- Main Menu -->
+    <string name="menu_home">Accueil</string>
+    <string name="menu_apps">Applications</string>
+    <string name="menu_playstore">Play Store</string>
+    <string name="menu_settings">Paramètres</string>
+    <string name="menu_search">Recherche</string>
+    
+    <!-- Categories -->
+    <string name="category_popular_apps">Applications Populaires</string>
+    <string name="category_entertainment">Divertissement</string>
+    <string name="category_streaming">Services de Streaming</string>
+    <string name="category_games">Jeux</string>
+    <string name="category_utilities">Utilitaires</string>
+    <string name="category_education">Éducation</string>
+    
+    <!-- Settings -->
+    <string name="settings_display">Paramètres d\'affichage</string>
+    <string name="settings_sound">Paramètres audio</string>
+    <string name="settings_language">Langue</string>
+    <string name="settings_ai">Fonctionnalités IA</string>
+    <string name="settings_personalization">Personnalisation</string>
+    <string name="settings_network">Réseau</string>
+    <string name="settings_storage">Stockage</string>
+    <string name="settings_about">À propos</string>
+</resources>
