@@ -1,2 +1,8 @@
-# Android-TV-Launcher
-Android TV for easy access
+# Android TV Launcher
+
+یک لانچر حرفه‌ای و چندزبانه برای Android TV با پشتیبانی کامل از Google Play، تنظیمات پیشرفته و هوش مصنوعی.
+
+## آموزش نصب
+۱. پروژه را از این ریپو کلون کنید  
+۲. با Android Studio باز کنید  
+۳. کامپایل و اجرا روی دستگاه TV یا امولاتور
