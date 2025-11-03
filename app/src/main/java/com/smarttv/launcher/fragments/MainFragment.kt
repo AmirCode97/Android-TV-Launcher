@@ -98,7 +98,7 @@ class MainFragment : BrowseSupportFragment() {
         return AppModel(
             packageName = "com.android.vending",
             appName = getString(R.string.menu_playstore),
-            iconResId = R.drawable.ic_play_store,
+            iconResId = R.drawable.ic_play_store_colored,
             isSystemApp = true
         )
     }
@@ -107,7 +107,7 @@ class MainFragment : BrowseSupportFragment() {
         return AppModel(
             packageName = "settings",
             appName = getString(R.string.menu_settings),
-            iconResId = R.drawable.ic_settings,
+            iconResId = R.drawable.ic_settings_colored,
             isSystemApp = true
         )
     }
