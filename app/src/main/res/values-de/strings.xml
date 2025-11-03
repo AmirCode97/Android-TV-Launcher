@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart TV Launcher</string>
+    
+    <!-- Main Menu -->
+    <string name="menu_home">Startseite</string>
+    <string name="menu_apps">Apps</string>
+    <string name="menu_playstore">Play Store</string>
+    <string name="menu_settings">Einstellungen</string>
+    <string name="menu_search">Suchen</string>
+    
+    <!-- Categories -->
+    <string name="category_popular_apps">Beliebte Apps</string>
+    <string name="category_entertainment">Unterhaltung</string>
+    <string name="category_streaming">Streaming-Dienste</string>
+    <string name="category_games">Spiele</string>
+    <string name="category_utilities">Dienstprogramme</string>
+    <string name="category_education">Bildung</string>
+    
+    <!-- Settings -->
+    <string name="settings_display">Anzeigeeinstellungen</string>
+    <string name="settings_sound">Toneinstellungen</string>
+    <string name="settings_language">Sprache</string>
+    <string name="settings_ai">KI-Funktionen</string>
+    <string name="settings_personalization">Personalisierung</string>
+    <string name="settings_network">Netzwerk</string>
+    <string name="settings_storage">Speicher</string>
+    <string name="settings_about">Über</string>
+    
+    <!-- AI Features -->
+    <string name="ai_recommendations">Intelligente Empfehlungen</string>
+    <string name="ai_voice_control">Sprachsteuerung</string>
+    <string name="ai_content_discovery">Inhalts-Entdeckung</string>
+    <string name="ai_learning_mode">KI-Lernmodus</string>
+    <string name="ai_personalized_home">Personalisierter Startbildschirm</string>
+</resources>
